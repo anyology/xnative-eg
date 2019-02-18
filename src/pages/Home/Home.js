@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {StatusBar} from "react-native";
-import {Button, Container, Content, Footer, Header, Icon, Modal, Statusbar, Text} from "xnative";
+import {Button, Container, Content, Header, Icon, Modal, Statusbar, Text} from "xnative";
 
 export default class Home extends Component {
   render() {
@@ -64,7 +64,6 @@ export default class Home extends Component {
         <Text p4>P4</Text>
         <Text p5>P5</Text>
         <Text p6>P6</Text>
-
       </Content>
     );
     return (
